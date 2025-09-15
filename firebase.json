@@ -1,0 +1,7 @@
+{
+  "react-native": {
+    "android_app_id": "1:123456789:android:abcd1234",
+    "ios_app_id": "1:123456789:ios:abcd1234",
+    "project_id": "flightsandfeelings-dev"
+  }
+}
